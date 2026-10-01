@@ -1,0 +1,15 @@
+figure {
+            background-color: rgb(255, 223, 223);
+        border: 10px solid rgb(253, 218, 206); 
+        width: 350px;}
+        img{width:100%;
+        }
+        .test {border : 2px solid #b1d9ff;
+        color: rgb(0, 0, 0);
+    background-color:#ffecdd; }
+    h1{text-align: center; color: #001e6f;background-color: rgb(187, 222, 255);}
+    h2{background-color: #fff6ef;}
+    nav{background-color: #e1f6ff;}
+    h3{text-align: center;}
+    figure{text-align: center;}
+    footer{text-align: center;background-color: #b1d9ff;}
