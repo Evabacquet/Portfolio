@@ -1,15 +1,22 @@
-figure {
-            background-color: rgb(255, 223, 223);
-        border: 10px solid rgb(253, 218, 206); 
-        width: 350px;}
-        img{width:100%;
-        }
-        .test {border : 2px solid #b1d9ff;
-        color: rgb(0, 0, 0);
-    background-color:#ffecdd; }
-    h1{text-align: center; color: #001e6f;background-color: rgb(187, 222, 255);}
-    h2{background-color: #fff6ef;}
-    nav{background-color: #e1f6ff;}
-    h3{text-align: center;}
-    figure{text-align: center;}
-    footer{text-align: center;background-color: #b1d9ff;}
+body{ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+   background-color: #fcf1e7;
+   margin: 30;
+   color: #6f5148;
+}
+
+header{ background-color: #e8c7c0;
+    color:#fcf1e7;
+    text-align: center;
+}
+
+h2 {color: #a98472; background-color: #b8c5b0; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+padding: 10px; border-radius: 10px;}
+h4 {color: #6d5144;}
+li{color: #291912;}
+
+
+footer{
+    background-color: #a98472; text-align: center; padding: 15px;
+}
+
